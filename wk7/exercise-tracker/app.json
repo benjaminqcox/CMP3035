@@ -29,7 +29,7 @@
       "package": "com.uol.exercise",
       "config": { 
         "googleMaps": {
-          "apiKey": "AIzaSyBApdj2dt-Z9QpFpULHcZuYb2Yf98uNnX0"
+          "apiKey": "YOUR-API-KEY"
         }
       },
       "adaptiveIcon": {
